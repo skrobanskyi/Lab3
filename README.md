@@ -1,1 +1,2 @@
-# Lab3
+# Laba3
+Skrobanskyi Viacheslav
